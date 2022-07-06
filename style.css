@@ -1125,6 +1125,7 @@
 .clear {
     clear: both;
 }
-.footer_carosal_icon .owl-nav{
+
+.footer_carosal_icon .owl-nav {
     display: none;
 }
